@@ -55,6 +55,7 @@ const EditorContainer = styled.div`
   margin: 0 auto;
   left: 0;
   right: 0;
+  margin-bottom: 20px;
 `;
 
 const ToDoContainer = styled.div`
