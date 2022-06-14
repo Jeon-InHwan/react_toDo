@@ -9,7 +9,7 @@ const Container = styled.div`
   padding: 0px 10px;
   max-width: 550px;
   margin: 0 auto;
-  margin-top: 30px;
+  margin-top: 20px;
 `;
 
 const Header = styled.header`
@@ -63,7 +63,8 @@ const ToDoContainer = styled.div`
   margin: 0 auto;
   margin-top: 30px;
   overflow-y: scroll;
-  max-height: 250px;
+  max-height: 220px;
+  margin-bottom: 200px;
 `;
 
 // new way of doing form using useForm

@@ -6,6 +6,7 @@ import { Categories, IToDo, toDoState } from "./atoms";
 const Btn = styled.button`
   border: none;
   background-color: transparent;
+  font-size: 1.2em;
   &:hover {
     cursor: pointer;
   }
