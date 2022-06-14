@@ -51,11 +51,10 @@ const EditorContainer = styled.div`
   padding: 0px 10px;
   position: fixed;
   max-width: 550px;
-  min-width: 550px;
   bottom: 10px;
-  right: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  margin: 0 auto;
+  left: 0;
+  right: 0;
 `;
 
 const ToDoContainer = styled.div`

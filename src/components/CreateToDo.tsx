@@ -17,7 +17,7 @@ const Input = styled.input`
   background: whitesmoke;
   color: ${(props) => props.theme.bgColor};
   margin-bottom: 0;
-  width: 100%;
+  width: 70%;
   border-radius: 5px;
   height: 35px;
   transition: 0.15s;
